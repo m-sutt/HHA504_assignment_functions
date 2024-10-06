@@ -10,11 +10,14 @@
 
 
 ### Step 2: Deploy a Serverless Function in GGP
-- From Cloud Functions: Click **Create Function**. Choose **HTTP Trigger**.
+- From Cloud Run functions: Click **Create function**. Trigger type **HTTPS**
 - Write function code: **Runtime Enviroment** = **Python**.
 
+![GCP1](https://github.com/user-attachments/assets/9ae33079-7031-4bee-89ed-3ff65bd5b896)
 
+![GCP2](https://github.com/user-attachments/assets/c8fa2e16-2fae-404a-990d-7261056f0826)
 
+![GCP3](https://github.com/user-attachments/assets/b3114de9-1cb1-47bf-8d36-edb16acd0a87)
 
 
 ### Step 3: Create a Cron Job Using GitHub Actions
