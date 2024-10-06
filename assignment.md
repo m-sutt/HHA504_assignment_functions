@@ -20,7 +20,7 @@
 ### Step 3: Create a Cron Job Using GitHub Actions
   - Set up GitHub action workflow. Commit and Push.
 
-### Reflecction on Functions as a Service (FaaS):
+### Reflection on Functions as a Service (FaaS):
  - Use cases:
     - Event-driven workflow: workflow can be triggered from a variety of actions such as a user uploading a file to the a cloud storage, a change that occurs within a DB.
     - Automation or scheduled tasks: moving files when certain conditions are met, or sending a email or notifications.
