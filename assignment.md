@@ -22,6 +22,10 @@
 
 ### Step 3: Create a Cron Job Using GitHub Actions
   - Set up GitHub action workflow. Commit and Push.
+  - **Problem**: Had an issue with Visual Studio Code not commiting to changes to GitHub.
+    
+<img width="941" alt="VSC" src="https://github.com/user-attachments/assets/c883f306-4da7-4fd2-a2f0-8037659330af">
+
 
 ### Reflection on Functions as a Service (FaaS):
  - Use cases:
